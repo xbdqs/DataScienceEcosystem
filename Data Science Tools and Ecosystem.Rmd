@@ -1,0 +1,94 @@
+---
+title: "Data Science Tools and Ecosystem"
+author: "QingsongDu"
+date: "2024-08-03"
+output: html_document
+---
+
+In this notebook, Data Science Tools and Ecosystem are summarized.
+
+Some of the popular languages that Data Scientists use are: - R
+
+\- Python
+
+\- Matlab
+
+## Data Science Languages
+
+Some of the popular languages that Data Scientists use are:
+
+1.  **Python** - Widely used for its readability and extensive libraries.
+2.  **R** - Known for its statistical analysis and data visualization capabilities.
+3.  **SQL** - Essential for querying and managing relational databases.
+
+## Data Science Libraries
+
+Some of the commonly used libraries used by Data Scientists include:
+
+1.  **Pandas** - Provides data structures and data analysis tools.
+2.  **NumPy** - Supports large, multi-dimensional arrays and matrices.
+3.  **Scikit-learn** - Offers simple and efficient tools for data mining and data analysis.
+4.  **TensorFlow** - A framework for machine learning and deep learning.
+5.  **Matplotlib** - Used for creating static, animated, and interactive visualizations.
+
+## Data Science Tools
+
+| Data Science Tools |
+|--------------------|
+| Jupyter Notebook   |
+| RStudio            |
+| Apache Zeppelin    |
+
+## Arithmetic Expression Examples
+
+### Below are a few examples of evaluating arithmetic expressions in Python.
+
+# This is a simple arithmetic expression to multiply then add integers.
+
+# Define the numbers
+
+a = 5 b = 10
+
+# Multiply and then add
+
+multiplication = a \* b addition = a + b
+
+# Display the results
+
+multiplication, addition
+
+
+```{r}
+# This will convert 200 minutes to hours by dividing by 60.
+
+# Number of minutes
+minutes = 200
+
+# Convert minutes to hours
+hours = minutes / 60
+
+# Display the result
+hours
+
+```
+**Objectives**
+
+- Learn to use JupyterLite Notebook for creating and sharing data science projects.
+- Understand how to use markdown cells for documentation and code cells for calculations.
+- Get familiar with common data science tools and libraries.
+- Practice converting units and performing basic arithmetic operations in Python.
+- Explore how to use GitHub for version control and sharing projects.
+
+
+## Author
+
+Qingsong Du
+
+
+
+
+
+
+
+
+
